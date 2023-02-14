@@ -3,6 +3,8 @@
   background: var(--color-bg-glare);
   color: var(--color-text);
   border-top: 1px solid var(--color-stroke);
+  display: flex;
+  justify-content: center;
 
   a {
     color: currentColor;

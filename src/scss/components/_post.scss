@@ -3,7 +3,7 @@
     --flow-space: #{get-size(800)};
 
     /**
-     * Generic HTML styles 
+     * Generic HTML styles
      */
     h2 + *,
     h3 + * {
@@ -47,6 +47,7 @@
       border: 1px solid rgba(255, 255, 255, 0.1);
       overflow-x: auto;
       -webkit-overflow-scrolling: touch;
+      color: white;
     }
 
     blockquote {
@@ -122,6 +123,10 @@
 
   &__footer {
     background: var(--color-theme-highlight);
+
+    p {
+      text-align: center;
+    }
 
     h2 {
       flex-shrink: 0;
