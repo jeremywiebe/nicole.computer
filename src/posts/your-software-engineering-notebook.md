@@ -1,5 +1,5 @@
 ---
-title: Your Softare Engineering Notebook
+title: Your Software Engineering Notebook
 date: 2023-02-14
 tags:
   - blog
